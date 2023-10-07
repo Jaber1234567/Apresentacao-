@@ -15,4 +15,4 @@ Fora da sala de aula, gosto de jogar videogames. Essa atividade me ajudam a mant
 
 Estou ansioso para continuar minha jornada de aprendizado na ETEC Paulistano e estou aberto a oportunidades de estágio e colaboração que me permitam aplicar e expandir meu conhecimento em Programação web.
 
-Se você procura um jovem talentoso, apaixonado pelo aprendizado e pronto para contribuir de forma positiva em sua equipe, estou à disposição. Espero ter a oportunidade de conhecer você e compartilhar minha paixão pelo conhecimento.*
+Se você procura um jovem talentoso, apaixonado pelo aprendizado e pronto para contribuir de forma positiva em sua equipe, estou à disposição. Espero ter a oportunidade de conhecer você e compartilhar minha paixão pelo conhecimento.
